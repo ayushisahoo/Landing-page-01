@@ -1,2 +1,2 @@
 # Landing-page-01
-It is a example of a landing page with some animations using GSAP.
+It is an example of a landing page with some animations using GSAP.
